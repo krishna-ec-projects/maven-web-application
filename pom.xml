@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		
-		<sonar.host.url>http://3.142.185.108:9000/</sonar.host.url>
+		<sonar.host.url>http://18.216.136.99:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Kri$hna8081</sonar.password>
 		
@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Sai Releases Nexus Repository</name>
-	      <url>http://18.117.179.64:8081/repository/sai-release/</url>
+	      <url>http://18.188.93.10:8081/repository/sai-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Sai Snapshot Nexus Repository </name>
-	      <url>http://18.117.179.64:8081/repository/sai-snapshot/</url>
+	      <url>http://18.188.93.10:8081/repository/sai-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
